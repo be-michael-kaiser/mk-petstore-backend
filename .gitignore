@@ -30,3 +30,9 @@ application-local.properties
 # Optional generated artifacts
 out/
 bin/
+
+
+# APM dependencies
+apm_modules/
+
+.agents
