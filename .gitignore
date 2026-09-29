@@ -1,0 +1,32 @@
+# Maven / Gradle build output
+/target/
+/build/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+hs_err_pid*
+
+# Spring Boot local config
+application-local.yml
+application-local.properties
+
+# Java compiled output
+*.class
+
+# Optional generated artifacts
+out/
+bin/
